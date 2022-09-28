@@ -3,12 +3,12 @@
 ### About Me 🌟
 
 - 👨‍💻 I'm a Front End Developer and Mobile App Developer</br>
-- 🌱 I’m currently learning Flutter <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
+- 🌱 I’m currently learning Flutter <img src="https://img.icons8.com/color/24/000000/flutter.png"/>
 - 📚 I am passionate about Web and Mobile App Development and I enjoy learning new things. </br>
 - 🎹 Beside coding, I also like to play piano and listen to classical pieces </br>
 
-### Get in touch📧
-[![Linkedin Badge](https://img.shields.io/badge/-RenaldhiFahrezi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayraj-roshan/)](https://www.linkedin.com/in/renaldhif/)
+### Get in Touch with Me 📧
+[![Linkedin Badge](https://img.shields.io/badge/-RenaldhiFahrezi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renaldhif/)](https://www.linkedin.com/in/renaldhif/)
 [![Website Badge](https://img.shields.io/badge/-renaldhif.vercel.app-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://renaldhif.vercel.app/)](https://renaldhif.vercel.app/)
 
 #
