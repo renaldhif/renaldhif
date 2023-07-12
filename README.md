@@ -3,7 +3,7 @@
 ### About Me 🌟
 
 - 👨‍💻 I'm a Front End Developer and Mobile App Developer</br>
-- 🌱 I’m currently learning React Native <a  href="https://icons8.com/icon/123603/react-native"></a>, Flutter <img src="https://img.icons8.com/color/24/000000/flutter.png"/> and Laravel <img src="https://img.icons8.com/fluency/24/null/laravel.png"/>
+- 🌱 I’m currently learning React Native <img width="24" height="24" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>,  Flutter <img src="https://img.icons8.com/color/24/000000/flutter.png"/> and Laravel <img src="https://img.icons8.com/fluency/24/null/laravel.png"/>
 - 📚 I am passionate about Web and Mobile App Development and I enjoy learning new things. </br>
 - 🎹 Beside coding, I also like to play piano and listen to classical pieces </br>
 
